@@ -80,12 +80,6 @@ chmod +x install.sh
 sudo pacman -S seeker
 ```
 
-### Docker
-
-```bash
-docker pull thewhiteh4t/seeker
-```
-
 ### OSX
 ```bash
 git clone https://github.com/thewhiteh4t/seeker.git
