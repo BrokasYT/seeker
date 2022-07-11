@@ -1,7 +1,7 @@
 <p align="center"><img src="https://cdn.discordapp.com/attachments/803548343368286209/996050761433755658/68747470733a2f2f692e696d6775722e636f6d2f444970754e54492e6a7067_cleanup.jpg"></p>
 
 
-Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Read more on <a href="https://thewhiteh4t.github.io"> thewhiteh4t's Blog </a>.Seeker Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
+Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Seeker Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
 
 * Longitude
 * Latitude
@@ -160,6 +160,6 @@ as an alterntive to ngrok
 
 **YouTube**
 
-<a href="https://youtu.be/Q91cTFwIvLc">
-  <img src="https://i3.ytimg.com/vi/Q91cTFwIvLc/maxresdefault.jpg">
+<a href="https://youtu.be/MOrAySOPFsw">
+  <img src="https://cdn.discordapp.com/attachments/803548343368286209/996050761433755658/68747470733a2f2f692e696d6775722e636f6d2f444970754e54492e6a7067_cleanup.jpg">
 </a>
