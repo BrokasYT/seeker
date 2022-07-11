@@ -154,6 +154,6 @@ as an alterntive to ngrok
 
 **YouTube**
 
-<a href="https://youtu.be/MOrAySOPFsw">
+<a href="https://www.youtube.com/watch?v=tQKCIB2238Q">
   <img src="https://cdn.discordapp.com/attachments/803548343368286209/996050761433755658/68747470733a2f2f692e696d6775722e636f6d2f444970754e54492e6a7067_cleanup.jpg">
 </a>
