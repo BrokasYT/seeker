@@ -1,24 +1,5 @@
-<p align="center"><img src="https://cdn.discordapp.com/attachments/803548343368286209/996050230527131698/68747470733a2f2f692e696d6775722e636f6d2f444970754e54492e6a7067.jpg"></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/803548343368286209/996050761433755658/68747470733a2f2f692e696d6775722e636f6d2f444970754e54492e6a7067_cleanup.jpg"></p>
 
-
-<p align="center">
-  <br>
-  <b>Available in</b>
-  <br>
-  <img src="https://i.imgur.com/1wJVDV5.png">
-</p>
-
-<p>
-  <a style="margin-right: 10px;" href="https://github.com/thewhiteh4t/seeker#installation">
-    <img src="https://dabuttonfactory.com/button.png?t=INSTALL&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
-  </a>
-  <a style="margin-right: 10px;" href="https://github.com/thewhiteh4t/seeker#usage">
-    <img src="https://dabuttonfactory.com/button.png?t=USAGE&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
-  </a>
-  <a href="https://github.com/thewhiteh4t/seeker#demo">
-    <img src="https://dabuttonfactory.com/button.png?t=DEMO&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
-  </a>
-</p>
 
 Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Read more on <a href="https://thewhiteh4t.github.io"> thewhiteh4t's Blog </a>.Seeker Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
 
